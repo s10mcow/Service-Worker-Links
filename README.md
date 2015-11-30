@@ -19,3 +19,10 @@
 ## Application Cache - App Cache
 
 * http://alistapart.com/article/application-cache-is-a-douchebag
+
+
+## Videos
+
+* [Chrome Dev Summit 2015 - Instant Loading with Service Worker](https://www.youtube.com/watch?v=jCKZDTtUA2A)
+* [Jake Archibald - Service Worker](https://www.youtube.com/watch?v=SdMxGNkZqnU)
+
