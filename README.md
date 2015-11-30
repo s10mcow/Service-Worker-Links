@@ -8,6 +8,7 @@
 * https://github.com/GoogleChrome/samples/blob/gh-pages/service-worker/README.md
 * https://davidwalsh.name/offline-recipes-service-workers
 * https://serviceworke.rs/
+* http://www.delphicdigital.com/blog/service-workers
 * https://hacks.mozilla.org/2015/11/offline-service-workers/
 * http://www.html5rocks.com/en/tutorials/service-worker/introduction/
 * https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API
